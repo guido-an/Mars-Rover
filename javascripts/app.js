@@ -112,12 +112,6 @@ function commandReceiver(command) {
 }
 }
 
-console.log(rover.position);
-console.log(rover.direction);
-commandReceiver("rfflf"); 
-console.log(rover.position);
-
-
 
 
 
